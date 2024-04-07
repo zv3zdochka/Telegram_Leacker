@@ -1,4 +1,3 @@
-import asyncio
 import datetime
 import aiofiles
 from telethon.sync import TelegramClient
